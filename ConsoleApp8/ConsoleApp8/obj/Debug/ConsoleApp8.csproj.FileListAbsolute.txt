@@ -1,7 +1,0 @@
-C:\Users\Personal\source\repos\ConsoleApp8\ConsoleApp8\bin\Debug\ConsoleApp8.exe.config
-C:\Users\Personal\source\repos\ConsoleApp8\ConsoleApp8\bin\Debug\ConsoleApp8.exe
-C:\Users\Personal\source\repos\ConsoleApp8\ConsoleApp8\bin\Debug\ConsoleApp8.pdb
-C:\Users\Personal\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\ConsoleApp8.csprojAssemblyReference.cache
-C:\Users\Personal\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\ConsoleApp8.csproj.CoreCompileInputs.cache
-C:\Users\Personal\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\ConsoleApp8.exe
-C:\Users\Personal\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\ConsoleApp8.pdb
