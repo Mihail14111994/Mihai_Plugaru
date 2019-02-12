@@ -12,14 +12,14 @@ namespace Basic_CSharp
         private string name;
         private int age;
         public string gen;
-        public static int employeeNumber;
+        public static int empNumber;
         static Employee()
         {
-            employeeNumber=0;
+            empNumber=0;
         }
         public static int AddEmployee()
         {
-            return employeeNumber++;
+            return empNumber++;
         }
         public Employee(string name, int age, string gen)
         {
@@ -51,7 +51,7 @@ namespace Basic_CSharp
                 Employee.AddEmployee();
 
                 Console.WriteLine("Number of potential employees: {0}",
-                              Employee.employeeNumber);
+                              Employee.empNumber);
 
                 object o = eage;
                 ListUnbox.Enlist(o);
