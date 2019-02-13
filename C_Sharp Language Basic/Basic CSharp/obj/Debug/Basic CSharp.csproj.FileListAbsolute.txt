@@ -5,3 +5,10 @@ C:\Users\mihail.plugaru\source\repos\Basic CSharp\Basic CSharp\obj\Debug\Basic C
 C:\Users\mihail.plugaru\source\repos\Basic CSharp\Basic CSharp\obj\Debug\Basic CSharp.csproj.CoreCompileInputs.cache
 C:\Users\mihail.plugaru\source\repos\Basic CSharp\Basic CSharp\obj\Debug\Basic CSharp.exe
 C:\Users\mihail.plugaru\source\repos\Basic CSharp\Basic CSharp\obj\Debug\Basic CSharp.pdb
+C:\Users\mihail.plugaru\Desktop\Public Git\Mihai_Plugaru\C_Sharp Language Basic\Basic CSharp\bin\Debug\Basic CSharp.exe.config
+C:\Users\mihail.plugaru\Desktop\Public Git\Mihai_Plugaru\C_Sharp Language Basic\Basic CSharp\bin\Debug\Basic CSharp.exe
+C:\Users\mihail.plugaru\Desktop\Public Git\Mihai_Plugaru\C_Sharp Language Basic\Basic CSharp\bin\Debug\Basic CSharp.pdb
+C:\Users\mihail.plugaru\Desktop\Public Git\Mihai_Plugaru\C_Sharp Language Basic\Basic CSharp\obj\Debug\Basic CSharp.csprojAssemblyReference.cache
+C:\Users\mihail.plugaru\Desktop\Public Git\Mihai_Plugaru\C_Sharp Language Basic\Basic CSharp\obj\Debug\Basic CSharp.csproj.CoreCompileInputs.cache
+C:\Users\mihail.plugaru\Desktop\Public Git\Mihai_Plugaru\C_Sharp Language Basic\Basic CSharp\obj\Debug\Basic CSharp.exe
+C:\Users\mihail.plugaru\Desktop\Public Git\Mihai_Plugaru\C_Sharp Language Basic\Basic CSharp\obj\Debug\Basic CSharp.pdb

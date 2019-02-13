@@ -29,8 +29,7 @@ namespace Basic_CSharp
         }            
     }
     class RegisterEmployees 
-    {
-        //static Employee a = new Employee("Abc" , 12);
+    {        
         static void Main(string[] args)
         {
             string empage;
