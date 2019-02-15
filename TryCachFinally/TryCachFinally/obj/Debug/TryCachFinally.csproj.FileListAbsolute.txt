@@ -1,0 +1,7 @@
+C:\Users\mihail.plugaru\source\repos\TryCachFinally\TryCachFinally\bin\Debug\TryCachFinally.exe.config
+C:\Users\mihail.plugaru\source\repos\TryCachFinally\TryCachFinally\bin\Debug\TryCachFinally.exe
+C:\Users\mihail.plugaru\source\repos\TryCachFinally\TryCachFinally\bin\Debug\TryCachFinally.pdb
+C:\Users\mihail.plugaru\source\repos\TryCachFinally\TryCachFinally\obj\Debug\TryCachFinally.csprojAssemblyReference.cache
+C:\Users\mihail.plugaru\source\repos\TryCachFinally\TryCachFinally\obj\Debug\TryCachFinally.csproj.CoreCompileInputs.cache
+C:\Users\mihail.plugaru\source\repos\TryCachFinally\TryCachFinally\obj\Debug\TryCachFinally.exe
+C:\Users\mihail.plugaru\source\repos\TryCachFinally\TryCachFinally\obj\Debug\TryCachFinally.pdb
