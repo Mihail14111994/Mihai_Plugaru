@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections;
+using static AnglesEnum;
 
 class App
 {
@@ -22,15 +23,35 @@ class App
 
         if (c != d)
             Console.WriteLine("Angles are not equall");
-        else Console.WriteLine("Angles are equall");
+        else Console.WriteLine("Angles {0} and {1} are equall\n", c.angName, d.angName);
 
-        Angle obj = new Angle();
-        obj[0] = a;
-        obj[1] = b;
+        var obj = new Angle();
+        obj[0] = d;
+        obj[1] = a;
+        obj[2] = c;
+        obj[3] = b;
+
+        Console.WriteLine("Indexerul pentru 4 obiecte tip Angle :\n{0}\n{1}\n{2}\n{3}\n", obj[0], obj[1], obj[2], obj[3]);
+
+        ArrayList dimensions = new ArrayList();
         
-        Console.WriteLine("
+        Random rnd = new Random();
+       
+        for (int ctr = 1; ctr <= 10; ctr++)
+        {
+            int degrees = rnd.Next(0, 179);
+            DegreeDimens temp = new DegreeDimens();
+            temp.Dimension = degrees;
+            dimensions.Add(temp);
+        }
 
-    Console.ReadKey();
+        dimensions.Sort();
+
+        foreach (DegreeDimens temp in dimensions)
+            Console.WriteLine(temp.Dimension);
+
+
+        Console.ReadKey();
     }
 }
 public class Angle
@@ -90,6 +111,18 @@ public class Angle
             status = true;
         }
         return status;
+    }
+    private Angle[] angIndex = new Angle[44];
+    public Angle this[int indexang]
+    {
+        get
+        {
+            return angIndex[indexang];
+        }
+        set
+        {
+            angIndex[indexang] = value;
+        }
     }
 }
 
@@ -170,6 +203,32 @@ public class AnglesEnum : IEnumerator
             catch (IndexOutOfRangeException)
             {
                 throw new InvalidOperationException();
+            }
+        }
+    }
+    public class DegreeDimens : IComparable
+    {        
+        protected double angDegree;
+        public int CompareTo(object obj)
+        {
+            if (obj == null) return 1;
+
+            DegreeDimens degreeValue = obj as DegreeDimens;
+            if (degreeValue != null)
+                return this.angDegree.CompareTo(degreeValue.angDegree);
+            else
+                throw new ArgumentException("Need a number");
+        }
+
+        public double Dimension
+        {
+            get
+            {
+                return this.angDegree;
+            }
+            set
+            {
+                this.angDegree = value;
             }
         }
     }

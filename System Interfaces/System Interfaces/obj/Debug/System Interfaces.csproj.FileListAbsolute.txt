@@ -5,3 +5,10 @@ C:\Users\Mihail\source\repos\System Interfaces\System Interfaces\obj\Debug\Syste
 C:\Users\Mihail\source\repos\System Interfaces\System Interfaces\obj\Debug\System Interfaces.csproj.CoreCompileInputs.cache
 C:\Users\Mihail\source\repos\System Interfaces\System Interfaces\obj\Debug\System Interfaces.exe
 C:\Users\Mihail\source\repos\System Interfaces\System Interfaces\obj\Debug\System Interfaces.pdb
+C:\Users\mihail.plugaru\source\repos\System Interfaces\System Interfaces\bin\Debug\System Interfaces.exe.config
+C:\Users\mihail.plugaru\source\repos\System Interfaces\System Interfaces\bin\Debug\System Interfaces.exe
+C:\Users\mihail.plugaru\source\repos\System Interfaces\System Interfaces\bin\Debug\System Interfaces.pdb
+C:\Users\mihail.plugaru\source\repos\System Interfaces\System Interfaces\obj\Debug\System Interfaces.csprojAssemblyReference.cache
+C:\Users\mihail.plugaru\source\repos\System Interfaces\System Interfaces\obj\Debug\System Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\mihail.plugaru\source\repos\System Interfaces\System Interfaces\obj\Debug\System Interfaces.exe
+C:\Users\mihail.plugaru\source\repos\System Interfaces\System Interfaces\obj\Debug\System Interfaces.pdb
