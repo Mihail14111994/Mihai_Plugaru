@@ -47,6 +47,7 @@ public class CharList {
     }
 
     public CharList removeDuplicates() {
+
         return new CharList(new ArrayList<>(new HashSet<>(charArr)));
     }
 
@@ -59,6 +60,7 @@ public class CharList {
     }
 
     public boolean isITEmpty(){
+
         return charArr.isEmpty();
     }
 
