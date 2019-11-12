@@ -2,11 +2,13 @@ public interface IMessage {
 
     public void prepareMessage();
 
-    public void prepareMessage(String s);
+    public void prepareMessage(String body);
 
-    public void prepareMessage(String s, String t);
+    public void prepareMessage(String header, String body);
 
-    public  void setName(String name);
+    public void printMessage();
 
-    public  String getBody();
+    public default String getBody() {
+        return null;
+    }
 }

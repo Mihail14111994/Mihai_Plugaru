@@ -1,30 +1,41 @@
-public class JSonMessage implements IMessage {
-    private String name;
+import com.sun.org.apache.xpath.internal.objects.XString;
+
+public class JsonMessage implements IMessage {
+    private String name = "Json";
     private String body;
 
-    public JSonMessage(String body){
-        name = "JSON";
-        this.body=body;
+    JsonMessage() {
+        prepareMessage();
+    }
+
+    JsonMessage(String body) {
+        prepareMessage(body);
+    }
+
+    JsonMessage(String header, String body) {
+        prepareMessage(header, body);
     }
 
     @Override
     public void prepareMessage() {
-
+        this.body = " ";
+        printMessage();
     }
 
     @Override
-    public void prepareMessage(String s) {
-
+    public void prepareMessage(String body) {
+        this.body = body;
+        printMessage();
     }
 
     @Override
-    public void prepareMessage(String s, String t) {
-
+    public void prepareMessage(String header, String body) {
+        this.body = header + "\n" + "\t\t" + body;
+        printMessage();
     }
 
-    @Override
-    public void setName(String name) {
-        this.name = name;
+    public void printMessage() {
+        System.out.println("[" + this.name + "]" + "  : " + this.body);
     }
 
     @Override
@@ -32,3 +43,7 @@ public class JSonMessage implements IMessage {
         return body;
     }
 }
+
+
+
+
