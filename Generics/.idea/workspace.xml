@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7817001a-3299-4caf-9907-9262f7caad3f" name="Default Changelist" comment="" />
+    <list default="true" id="9790a9af-855f-4926-b95b-1a3936e88c8e" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,24 +12,14 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
-        <option value="Interface" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1TAKL4GyEHrrQzvEAC9J26XgwH6" />
+  <component name="ProjectId" id="1TVMbG2Ew50Xg8NMbvpHTl1s16U" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Collections/Alpha_Testing_Project" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="" />
-    </key>
-  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -42,30 +32,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="MessageProcessor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MessageProcessor" />
-      <module name="OOP" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.MessageProcessor" />
-      </list>
-    </recent_temporary>
-  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="7817001a-3299-4caf-9907-9262f7caad3f" name="Default Changelist" comment="" />
-      <created>1572897400167</created>
+      <changelist id="9790a9af-855f-4926-b95b-1a3936e88c8e" name="Default Changelist" comment="" />
+      <created>1573540879240</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1572897400167</updated>
+      <updated>1573540879240</updated>
     </task>
     <servers />
   </component>
