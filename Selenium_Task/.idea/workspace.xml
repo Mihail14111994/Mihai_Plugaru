@@ -42,7 +42,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.OpenCartAutomation.firstScenario">
+  <component name="RunManager" selected="JUnit.OpenCartAutomation.thirdScenario">
     <configuration name="OpenCartAutomation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="OpenCartAutomation" />
       <module name="Selenium_Task" />
@@ -70,24 +70,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OpenCartAutomation.main" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="OpenCartAutomation.secondScenario" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Selenium_Task" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="OpenCartAutomation" />
-      <option name="METHOD_NAME" value="main" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
+      <option name="METHOD_NAME" value="secondScenario" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OpenCartAutomation.thirdScenario" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Selenium_Task" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="OpenCartAutomation" />
+      <option name="METHOD_NAME" value="thirdScenario" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.OpenCartAutomation.thirdScenario" />
+        <item itemvalue="JUnit.OpenCartAutomation.secondScenario" />
         <item itemvalue="JUnit.OpenCartAutomation.firstScenario" />
         <item itemvalue="JUnit.OpenCartAutomation.main" />
         <item itemvalue="Application.OpenCartAutomation" />
-        <item itemvalue="TestNG.OpenCartAutomation.main" />
       </list>
     </recent_temporary>
   </component>
