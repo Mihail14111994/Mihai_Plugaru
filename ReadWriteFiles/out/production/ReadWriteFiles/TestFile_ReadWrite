@@ -1,0 +1,5 @@
+File class can be used to create a new File in Java.
+When we initialize File object, we provide the file name
+and then we can call createNewFile() method to create new file in Java. F
+ile createNewFile() method returns true if new file is created and false if file already exists.
+This method also throws java.

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8bc4db09-eacf-4b2a-8a8e-6cb6cb464163" name="Default Changelist" comment="" />
+    <list default="true" id="9c202cf7-b2f6-45e0-a6a2-8647d43cb743" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,13 +18,8 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1TnIWNRi607i5puVoUzkTABstLH" />
+  <component name="ProjectId" id="1U4oQCmb4nkI34j1kLu0GOomtsN" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="PropertiesComponent">
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -38,16 +33,16 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="dateTime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dateTime" />
-      <module name="DateTime" />
+    <configuration name="ReadWriteFiles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReadWriteFiles" />
+      <module name="ReadWriteFiles" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.dateTime" />
+        <item itemvalue="Application.ReadWriteFiles" />
       </list>
     </recent_temporary>
   </component>
@@ -56,11 +51,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="8bc4db09-eacf-4b2a-8a8e-6cb6cb464163" name="Default Changelist" comment="" />
-      <created>1574089464201</created>
+      <changelist id="9c202cf7-b2f6-45e0-a6a2-8647d43cb743" name="Default Changelist" comment="" />
+      <created>1574625209604</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1574089464201</updated>
+      <updated>1574625209604</updated>
     </task>
     <servers />
   </component>
@@ -69,9 +64,7 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
