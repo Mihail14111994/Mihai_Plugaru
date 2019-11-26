@@ -36,13 +36,13 @@ public class testForCalculateClass {
     @DisplayName("negativeMultiply")
     @ParameterizedTest(name = "{index} => input=''{0}, {1}''")
     @MethodSource("twoValidImputs")
-    void ValuenegativeMultiply(double number1, double number2) {
+    void negativeValueSourceMultiply(double number1, double number2) {
         double expectedResult = number1 * number2;
         double methodResult = Calculate.multiply(number1, number2);
         assertThat(methodResult, CoreMatchers.<Double>is(expectedResult));
     }
 
-    @MethodSource("twoValidImputs")
+    @MethodSource("twoValidInputs")
     private static Stream<Arguments> twoValidImputs() {
         return Stream.of(
                 Arguments.of(-1, 5),
