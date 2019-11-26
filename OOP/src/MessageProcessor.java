@@ -2,11 +2,11 @@ public class MessageProcessor{
     public static void main(String[] args) {
 
 
-        JsonMessage firstJson = new JsonMessage();
+        JSonMessage firstJson = new  JSonMessage();
 
-        JsonMessage secondJson = new JsonMessage("Second Json Message");
+        JSonMessage secondJson = new  JSonMessage("Second Json Message");
 
-        JsonMessage thirdJson = new JsonMessage("Third Json Message header", "Third Json Message body");
+        JSonMessage thirdJson = new  JSonMessage("Third Json Message header", "Third Json Message body");
 
         XMLMessage firstXML = new XMLMessage( );
 
@@ -19,7 +19,7 @@ public class MessageProcessor{
 
         XMLMessage convertedFromJson = (XMLMessage) toXML.convertMessage(secondJson);
 
-        JsonMessage convertedFromXML = (JsonMessage) toJson.convertMessage(thirdXML);
+        JSonMessage convertedFromXML = (JSonMessage) toJson.convertMessage(thirdXML);
 
     }
 }

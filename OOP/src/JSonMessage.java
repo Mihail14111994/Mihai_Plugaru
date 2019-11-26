@@ -1,18 +1,18 @@
 import com.sun.org.apache.xpath.internal.objects.XString;
 
-public class JsonMessage implements IMessage {
+public class JSonMessage implements IMessage {
     private String name = "Json";
     private String body;
 
-    JsonMessage() {
+    JSonMessage() {
         prepareMessage();
     }
 
-    JsonMessage(String body) {
+    JSonMessage(String body) {
         prepareMessage(body);
     }
 
-    JsonMessage(String header, String body) {
+    JSonMessage(String header, String body) {
         prepareMessage(header, body);
     }
 
