@@ -42,7 +42,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.OpenCartAutomation.thirdScenario">
+  <component name="RunManager" selected="JUnit.OpenCartAutomation.secondScenario">
     <configuration name="OpenCartAutomation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="OpenCartAutomation" />
       <module name="Selenium_Task" />
@@ -92,8 +92,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.OpenCartAutomation.thirdScenario" />
         <item itemvalue="JUnit.OpenCartAutomation.secondScenario" />
+        <item itemvalue="JUnit.OpenCartAutomation.thirdScenario" />
         <item itemvalue="JUnit.OpenCartAutomation.firstScenario" />
         <item itemvalue="JUnit.OpenCartAutomation.main" />
         <item itemvalue="Application.OpenCartAutomation" />

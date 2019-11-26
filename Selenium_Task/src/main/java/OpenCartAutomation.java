@@ -111,7 +111,7 @@ public class OpenCartAutomation {
         wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//*[@id='content']/form/div/table/tbody/tr/td[4]/div/span/button[2]"))).click();
         /* Check Cart empty */
         Thread.sleep(1000);
-        String cartStatus = driver.findElement(By.xpath("//*[@id=\"cart\"]/ul/li/p")).getText();
+        String cartStatus = driver.findElement(By.xpath("//*[@id=\"cart-total\"]")).getText();
         System.out.println(cartStatus);
         wait.until(ExpectedConditions.visibilityOfElementLocated(By.partialLinkText(cartStatus))).isDisplayed();
         /* drop-down for logout */
